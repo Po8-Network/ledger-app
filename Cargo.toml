@@ -1,0 +1,9 @@
+[package]
+name = "po8-ledger-app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# ledger-device-sdk = "..."
+# po8-crypto = { path = "../po8-core/crypto", features = ["no-std"] } # Assuming embedded support
+
