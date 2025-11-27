@@ -11,3 +11,4 @@ Rust-based application for Ledger Nano X/S+, implementing the Po8 cryptographic 
 
 🚧 **Prototype**: Currently in early development.
 
+

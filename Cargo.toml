@@ -7,3 +7,4 @@ edition = "2021"
 # ledger-device-sdk = "..."
 # po8-crypto = { path = "../po8-core/crypto", features = ["no-std"] } # Assuming embedded support
 
+
